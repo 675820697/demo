@@ -7,6 +7,7 @@
 <!--  子功能模块-->
   <modules>
     <module>funtion-one</module>
+    <module>function-two</module>
   </modules>
 <!--项目信息-->
   <groupId>com.ys</groupId>
